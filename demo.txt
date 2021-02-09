@@ -1,9 +1,4 @@
 
-det her er bare lige demonstrerer det merge konflikt
-rrrrrrrrrrrrrrrrrrrrrrr
-rrrrrrrrrrrrrrrrrrrrrrrrrrr
-jeg elsker bente
-rrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 
 
@@ -16,18 +11,23 @@ rrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
 
 
-hhhhhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhhhhhhh
-hhhhhhhhhhhhhhhhhhhhhhhhhh
 
 
 
 
-ssssssssssssssssssssssssssss
-ssssssssssssssssssssssssssssss
-ssssssssssssssssssssssssssssssss
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
